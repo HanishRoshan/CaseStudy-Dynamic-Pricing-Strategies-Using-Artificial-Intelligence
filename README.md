@@ -1,0 +1,2 @@
+# CASESTUDY-DYNAMIC-PRICING-STRATEGIES-USING-ARTIFICIAL-INTELLIGENCE
+dynamic pricing is a groundbreaking, AI-based approach to adapting prices to varying demand and customer preferences, as well as to the competitive ecosystem . it uses immediate data processing to adjust prices. the focus of this report is mainly on investigating the various aspects of AI-assisted pricing strategies in the e-commerce market
